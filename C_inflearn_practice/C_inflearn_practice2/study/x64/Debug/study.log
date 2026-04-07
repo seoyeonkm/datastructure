@@ -1,0 +1,8 @@
+﻿  hello.c
+D:\work\study\hello.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\work\study\hello.c(16,20): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\work\study\hello.c(16,13): warning C4312: '형식 캐스트': 'int'에서 더 큰 'char *'(으)로의 변환입니다.
+D:\work\study\hello.c(19,3): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\work\study\hello.c(23,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\work\study\hello.c(25,2): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  study.vcxproj -> D:\work\study\x64\Debug\study.exe
